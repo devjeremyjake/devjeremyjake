@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Its Okafor Jerrymark Chinedu a self taught developer from Nigeria.
-🔭 I’m currently working on building my React Skills to stand out <br>
+## Its Okafor Jerrymark Chinedu Frontend developer from Nigeria.
+🔭 I’m a React Developer with Experience on React, Javascipt, Redux, Sass, Tailwindcss, styled-components e.t.c <br>
 📫 How to reach me: email: devjeremyjake@gmail.com
 
 <!--
