@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Its Okafor Jerrymark Chinedu Frontend develope.
-🔭 I’m a React Developer with Experience on React, Javascipt, Redux, reduxtoolkit, RTQ, Sass, Tailwindcss, styled-components e.t.c <br>
+## Its Okafor Jerrymark Chinedu Frontend developer.
+🔭 I’m a Front End Engineer with Experience on React, Javascipt, ReactNative, Redux, reduxtoolkit, RTQ, Sass, Tailwindcss, styled-components e.t.c <br>
 📫 How to reach me: email: devjeremyjake@gmail.com
 
 <!--
